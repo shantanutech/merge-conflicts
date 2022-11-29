@@ -1,0 +1,10 @@
+this is created by main branch
+<<<<<<< HEAD
+this is created by developer1
+=======
+this is created by developer2
+kjljdlj
+khjfjlk
+kljfhsl
+jkshfkjhdsjlf
+>>>>>>> developer2
